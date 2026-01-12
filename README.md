@@ -1,4 +1,4 @@
-# Data-Analyst-Using-Sql
+# Data-Analysis-Using-Sql
 Swiggy Data Analysis: Insights on Food Orders Across the Platform
 
 📊 Overview
