@@ -57,6 +57,7 @@ Five dimension tables and one fact table were created:
 · Rating Distribution and Understanding Customer Rating Criteria
 
 🎨 Conclusions:
+
 This analysis provides valuable insights for:
 
 · Swiggy management: to improve operations and planning
